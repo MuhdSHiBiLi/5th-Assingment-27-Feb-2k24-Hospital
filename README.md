@@ -7,4 +7,4 @@
 7th to update only one data  `http://localhost:3000/name` by using this link in *PUT method*  (by using corresponding name after/)
 8th to delete one data `http://localhost:3000/name` by using this link in *DELETE method*  (by using corresponding name after/)
 
-And at last of ur verification , please put full mark for me 😁😅   (It is mandatory , please)
+And at last of ur verification , please give full mark  😁😅   (It is mandatory , please)
