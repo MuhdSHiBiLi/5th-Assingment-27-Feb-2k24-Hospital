@@ -5,9 +5,13 @@
     "location": "calicut"
   },
   {
-    "name": "amritha",
-    "patientCount": 50,
-    "location": "calicut"
+    "name": "abc",
+    "patientCount": 500,
+    "location": "alappuzha"
+  },
+  {
+    "name": "al-abeer",
+    "patientCount": 500,
+    "location": "kri"
   }
-
 ]
